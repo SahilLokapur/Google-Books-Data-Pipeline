@@ -2,7 +2,7 @@
 
 This project focuses on the design and implementation of a robust, near-real-time data ingestion and warehousing pipeline for book metadata sourced from the Google Books API. The pipeline is fully automated and orchestrated to ensure data freshness, quality, and reliability within the data warehouse.
 
-Architecture and Technologies
+Architecture and Technologies:
 
 Data Source & Ingestion: Data is programmatically captured in real-time from the Google Books API and immediately stored in a designated AWS S3 Landing Bucket.
 
